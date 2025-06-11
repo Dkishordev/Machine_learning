@@ -11,7 +11,7 @@ from sklearn.metrics import r2_score
 
 warnings.filterwarnings('ignore')
 
-df = pd.read_csv(r"./Machine_learning/Data/advertising.csv")
+df = pd.read_csv(r"../Machine_learning/Data/advertising.csv")
 print(df.head())
 
 
