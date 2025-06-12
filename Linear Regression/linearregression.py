@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -9,9 +10,15 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(current_dir)
+file_path = os.path.join(BASE_DIR,  'Data', 'advertising.csv')
+
+
+
 warnings.filterwarnings('ignore')
 
-df = pd.read_csv(r"../Machine_learning/Data/advertising.csv")
+df = pd.read_csv(file_path)
 print(df.head())
 
 
