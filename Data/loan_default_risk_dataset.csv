@@ -1,0 +1,301 @@
+Retirement_Age,Debt_Amount,Monthly_Savings,Loan_Type,Customer_Segment,Loan_Default_Risk
+60,2996.52,2378.49,Business,High Risk,0
+66.4,4137.23,1538.92,Personal,High Risk,1
+58.5,19865.75,2434.8,Business,High Risk,1
+49.8,16855.7,2677.82,Personal,Very Low Risk,1
+67.3,7902.37,2206.72,Business,Medium Risk,0
+67.3,9328.16,2938.4,Home,Medium Risk,0
+49.2,37541.34,1613.11,Business,Medium Risk,1
+57.3,3984.29,1377.67,Education,High Risk,1
+69.7,15623.27,1110.64,Home,Medium Risk,1
+59.6,6357.36,2748.02,Education,Very Low Risk,0
+69.6,6240.29,2327.18,Personal,Very Low Risk,0
+69.7,30288.77,1972.21,Auto,Very Low Risk,1
+62.6,21818.2,2139.98,Home,High Risk,1
+84.1,21508.67,1437.26,Home,High Risk,1
+82.2,38815.49,3222.88,Education,Medium Risk,0
+70.6,8309.91,2064.61,Business,Low Risk,0
+75.1,,2054.7,Home,Low Risk,0
+61.9,5584.11,2362.88,Education,Medium Risk,0
+74.1,11956.13,2240.5,Auto,Very Low Risk,0
+79.1,6931.48,2111.94,Auto,Medium Risk,0
+50.3,9103.33,1604.76,Personal,Low Risk,1
+67.3,16550.78,2235.73,Home,High Risk,0
+64.3,3035.51,2941.01,Personal,Medium Risk,0
+79.2,99794.14,2672.71,Personal,Medium Risk,1
+70.4,2423.04,,Personal,Very Low Risk,0
+63.9,1887.43,1744.39,Auto,Very Low Risk,0
+76.5,32523.98,1505.2,Home,Medium Risk,1
+61.2,20952.12,1937.11,Personal,Medium Risk,1
+71,17136.12,2027.86,Education,Very Low Risk,1
+67.9,17223.23,2547.1,Home,Medium Risk,0
+71,7984.87,1153.77,Personal,Very Low Risk,1
+46.5,2760.85,2764.78,Education,Medium Risk,0
+65.1,8874.75,1921,Personal,Very Low Risk,1
+75.6,3595.38,1786.56,Personal,Very Low Risk,0
+56.8,26111.83,1493.95,Auto,Low Risk,1
+77.2,6792.21,1172.57,Personal,Medium Risk,1
+62.9,3009.12,,Personal,Very Low Risk,0
+84.6,5510.09,2036.66,Education,Low Risk,0
+78.3,13299.98,1355.02,Personal,High Risk,1
+63,4119.68,1352.46,Education,High Risk,1
+57.6,3020.98,1832.11,Education,Medium Risk,1
+63.3,10855.47,2834.51,Auto,High Risk,0
+66.2,10872.15,1870.2,Auto,Very Low Risk,1
+68,4410.17,1248.43,Auto,Medium Risk,1
+79.8,4604.34,1877.13,Business,Medium Risk,0
+72.2,10704.93,1863.64,Education,Medium Risk,0
+69.6,1425.53,651.56,Business,Medium Risk,1
+54.4,1496.74,1972.85,Auto,Low Risk,1
+61.6,3421.61,1884.53,Business,Low Risk,0
+82.6,6272.08,2348.1,Home,Very Low Risk,0
+61.8,11767.41,2924.48,Business,High Risk,0
+68.9,47592.36,2563.28,Home,Medium Risk,1
+71.8,22678.93,1865.56,Auto,Low Risk,1
+58.9,6688.02,1446.74,Home,Very Low Risk,1
+54.7,7920.27,3286.68,Business,Very Low Risk,0
+55.7,2433.21,2029.61,Personal,Medium Risk,1
+73.4,7925.05,2006.96,Auto,Medium Risk,0
+68.1,5730.8,1987.94,Personal,Low Risk,0
+61.7,11935.38,2099.04,Personal,Medium Risk,1
+55.2,3002.87,1927.82,Education,High Risk,1
+69.8,15111.57,1713.17,Auto,Low Risk,1
+66.9,50985,1726.57,Auto,Very Low Risk,1
+76.1,7111.64,1983.62,Auto,Very Low Risk,0
+77,13122.11,1728.29,Education,Very Low Risk,0
+56.9,18549.03,1643.58,Auto,Very Low Risk,1
+51.4,5006.72,2053.22,Auto,Very Low Risk,1
+65.7,10603.2,1872.51,Auto,Low Risk,1
+55,8226.46,2752,Education,High Risk,0
+61.4,9110.76,674.52,Education,Very Low Risk,1
+71.5,3204.75,2545.75,Business,High Risk,0
+61.4,8344.95,2623.04,Auto,Low Risk,0
+49.6,14729.36,963.3,Education,Medium Risk,1
+65.4,46229.45,1828.66,Personal,Low Risk,1
+49.4,25619.91,1814.28,Education,Very Low Risk,1
+78.8,107346.69,1296.24,Business,Medium Risk,1
+56.8,3226.6,1611.09,Auto,High Risk,1
+64.1,23081.46,1444.71,Home,High Risk,1
+68,10097.17,2876.14,Education,High Risk,0
+64.1,112169.18,2467.84,Home,High Risk,1
+84.9,3071.87,2635.78,Auto,High Risk,0
+67.2,2958.19,2360.84,Home,Low Risk,0
+61.4,3947.07,1435.47,Education,Low Risk,1
+50.2,633.54,1737.74,Personal,Medium Risk,1
+70.2,4311.73,2244.69,Home,Low Risk,0
+73.1,3258.56,1388.94,Business,Low Risk,0
+70,9705.74,2356.5,Auto,Low Risk,0
+55.8,12211.18,1879.84,Auto,Very Low Risk,1
+61.7,76988.01,1812.59,Home,Very Low Risk,1
+70.3,25349.36,2355.48,Business,Very Low Risk,1
+59.9,4055.04,2222.13,Auto,High Risk,0
+64,2757.01,1819.52,Home,Very Low Risk,0
+55.3,14622.3,2579.66,Home,Medium Risk,1
+72,1661.91,1459.47,Auto,Medium Risk,0
+68.3,72966.12,2307.97,Business,Medium Risk,1
+68.9,33367.18,2296.55,Education,Low Risk,1
+79.6,4614.64,1845.23,Auto,Low Risk,0
+62,1037.16,2163.07,Education,Very Low Risk,0
+62.4,41136.33,1374.44,Education,High Risk,1
+64.9,7062.48,2462.01,Home,Medium Risk,0
+67.3,35788.42,1907.55,Education,High Risk,1
+79.2,1195.94,1738.64,Business,Medium Risk,0
+69.2,3947.15,2524.5,Personal,Very Low Risk,0
+68.4,8154.23,1647.83,Education,Very Low Risk,1
+73,8573.03,1295.77,Business,Low Risk,1
+66.6,4721.69,1221.69,Auto,Low Risk,1
+61,17110.03,2303,Business,High Risk,1
+46.1,2250.38,1359.79,Auto,Medium Risk,1
+63.3,6830.44,2877.4,Auto,Medium Risk,0
+62.4,9361.44,959.04,Business,Low Risk,1
+65.7,15022.83,2848.23,Education,Very Low Risk,0
+84.2,19033.16,2105.51,Business,Low Risk,0
+65.3,2101.55,1951.64,Personal,High Risk,0
+64.4,1285.71,1727.54,Personal,High Risk,0
+40.4,37541.87,2199.57,Business,High Risk,1
+66.9,12073.6,1981.18,Personal,High Risk,1
+62,3300.46,2551.65,Education,Very Low Risk,0
+65.3,52124.08,2057.11,Business,Medium Risk,1
+76.7,9309.68,2075.15,Education,Low Risk,0
+53.6,33361.46,1818.19,Home,High Risk,1
+57.5,8786.94,1971.53,Auto,Medium Risk,1
+57.1,96076.26,2153.9,Education,Low Risk,1
+74.1,66596.61,1144.92,Business,High Risk,1
+51,6010.38,1325.91,Personal,Very Low Risk,1
+79,26000.87,2371.63,Business,Very Low Risk,0
+59.1,17578.84,2085.43,Auto,Medium Risk,1
+43.1,41871.38,1908.01,Auto,Low Risk,1
+74.9,2545.52,2009.22,Personal,High Risk,0
+70.7,18458.16,2173.79,Home,High Risk,0
+64,28857.04,1730.12,Personal,Low Risk,1
+70,981.92,1610.85,Education,Very Low Risk,0
+80.5,1958.8,2097.92,Personal,Very Low Risk,0
+64.3,701.29,1510.81,Personal,High Risk,1
+75.6,5864.73,2204.13,Auto,Low Risk,0
+60.3,19169.02,1148.71,Home,Low Risk,1
+74.2,49159.65,2514.58,Education,Low Risk,1
+49.5,8856.56,2236.3,Education,Very Low Risk,1
+72.8,57201.69,2128.01,Auto,Very Low Risk,1
+68.2,1546.7,2491.35,Home,Low Risk,0
+56.9,1049.37,2832.74,Business,Low Risk,0
+77.3,7580.56,2507.19,Personal,Very Low Risk,0
+62.7,12847.17,1079.56,Auto,Very Low Risk,1
+51.9,7791.33,1360.21,Education,High Risk,1
+81.1,677.95,1687.59,Education,Medium Risk,0
+63.2,7281.24,2013.05,Business,Very Low Risk,0
+62.4,1693.64,2258.83,Personal,High Risk,0
+57.2,18098.91,1637.13,Personal,Medium Risk,1
+77.4,12580.68,2093.38,Business,Medium Risk,0
+78.2,2623.18,1622.31,Personal,Very Low Risk,0
+59.8,4373.68,1694.24,Home,Low Risk,1
+62,2273.2,1296.67,Home,Very Low Risk,1
+62.5,7515.97,1538.38,Auto,Low Risk,1
+61.5,25493.3,1324.16,Home,High Risk,1
+71.8,2482.77,1512.06,Education,Medium Risk,0
+62.7,14836.65,2526.82,Business,High Risk,0
+62.1,4288.49,1525.3,Education,Medium Risk,1
+72.1,3129.26,3316.19,Auto,Very Low Risk,0
+46.3,7126.41,2246.66,Education,High Risk,1
+60.3,2339.54,2092.42,Auto,Very Low Risk,0
+76.9,4169.79,1570.82,Education,Medium Risk,0
+58.4,1924.74,2350.15,Home,Low Risk,0
+74.7,85619.66,1712.18,Auto,Low Risk,1
+57.1,8453.33,2061,Home,Low Risk,1
+53.4,3499.34,3280.04,Business,Low Risk,0
+73.2,10475.31,1951.97,Business,Very Low Risk,0
+55.4,7081.25,2574.64,Education,Medium Risk,0
+60.9,6215.72,1648.41,Education,Very Low Risk,1
+56.8,16932.67,1982.51,Business,Low Risk,1
+46,20110.74,2885.4,Personal,Very Low Risk,1
+67.5,4287.24,1686.52,Home,Medium Risk,0
+72.5,4060.32,2906.22,Personal,High Risk,0
+73.9,5825.14,2353.88,Business,Very Low Risk,0
+73.2,511.68,1718.77,Education,Very Low Risk,0
+65.8,1315.24,2316.2,Education,Medium Risk,0
+61.6,41783.18,2486.28,Personal,High Risk,1
+62.2,58335.22,2310.9,Business,High Risk,1
+56.7,6009.86,1214.89,Business,Low Risk,1
+64.9,16185.46,1636.43,Business,Very Low Risk,1
+50.5,11772.25,1876.24,Auto,Low Risk,1
+67.6,326001.4,1962.78,Education,Medium Risk,1
+37.8,31054.22,2310.34,Business,High Risk,1
+58.7,6950.01,2088.85,Education,Low Risk,1
+73.6,2574.35,1332.33,Business,Very Low Risk,0
+75.7,1178.81,2190.1,Education,Low Risk,0
+60.2,10343.94,2305.29,Education,Medium Risk,0
+67.2,3269.46,2279.9,Home,Medium Risk,0
+57.9,1470.41,2540.39,Personal,Very Low Risk,0
+60.3,3729.81,2416.96,Personal,High Risk,0
+65.7,2213.08,2229.59,Auto,Low Risk,0
+73.5,61363.47,1964.92,Personal,Low Risk,1
+80.1,23341.02,1169.52,Home,Very Low Risk,1
+69.5,8025.93,2214.81,Personal,Low Risk,0
+56.4,47855.1,2103.84,Education,Medium Risk,1
+62.9,8891.42,2135.79,Personal,Very Low Risk,0
+77.5,2882.63,1361.63,Auto,Very Low Risk,0
+63.3,50400.12,1459.47,Home,Medium Risk,1
+61.1,15470.53,2526.58,Home,Low Risk,0
+73.8,2333.92,1980.22,Education,Medium Risk,0
+63.5,6448.44,2340.75,Home,Low Risk,0
+64.4,2833.47,2014.16,Business,High Risk,0
+76.4,1541.7,2014.88,Business,Medium Risk,0
+61.4,24622.43,2469.14,Home,High Risk,1
+59.4,80121.54,1741.98,Personal,High Risk,1
+54.2,1512.8,2048.06,Personal,Medium Risk,1
+54.5,15923.69,1768.86,Education,High Risk,1
+78.8,3711.64,1782.75,Education,Very Low Risk,0
+74.4,4516.31,1845.41,Business,Medium Risk,0
+59.8,3980.36,2111.07,Business,High Risk,0
+59.9,2873.28,1760.63,Business,Medium Risk,1
+59.8,8588.9,2627.88,Auto,Medium Risk,0
+26.5,2989.5,1552.7,Education,Medium Risk,1
+59.3,11209.85,1906.56,Business,Medium Risk,1
+53.6,7629.02,1780.13,Business,Low Risk,1
+55.5,6083.06,2723.49,Business,Very Low Risk,0
+58.5,2726.91,2098.28,Personal,High Risk,0
+68.2,4055.68,2515.92,Home,Medium Risk,0
+57.4,20059.73,1257.22,Auto,High Risk,1
+72.7,14781.04,2133.53,Education,Medium Risk,0
+67.4,2507.23,2444.82,Home,Low Risk,0
+69.9,9128.88,2041.14,Home,Very Low Risk,0
+64.2,19963.57,2532.74,Personal,Medium Risk,0
+41.9,1093.04,1741.36,Home,High Risk,1
+83.7,15553.36,2704.67,Auto,Medium Risk,0
+58.1,3658.66,3149.45,Business,Medium Risk,0
+81.1,16070.14,1818.58,Business,Very Low Risk,0
+69.7,3242.46,1777.25,Home,Low Risk,0
+54.1,929.03,2726.69,Auto,Very Low Risk,0
+64.4,1149.35,2789.79,Personal,Very Low Risk,0
+75.8,8584.4,1738.57,Home,Low Risk,0
+72.2,11066.38,1789.91,Business,Very Low Risk,0
+58.2,2737.55,1859.11,Education,High Risk,1
+72.3,17436.32,1327.77,Home,Low Risk,1
+62.8,1103.43,1540.67,Auto,Very Low Risk,1
+64.5,7485.36,1497.93,Personal,Medium Risk,1
+71.5,1894.63,1616.1,Business,Very Low Risk,0
+43.6,3706.33,1982.66,Business,High Risk,1
+58.7,8577.33,2117.11,Business,Medium Risk,1
+84.7,2885.65,2775.25,Personal,Very Low Risk,0
+63.1,5107.85,1500.82,Home,Low Risk,1
+71.6,27107.11,2492.16,Home,Low Risk,1
+56.5,4055.1,1893.01,Business,Medium Risk,1
+72.9,22088.9,1975.27,Home,Medium Risk,1
+66.1,2088.81,2337.41,Home,Very Low Risk,0
+60,15302.4,1438.64,Auto,Medium Risk,1
+56.3,45701.31,2191.2,Personal,Medium Risk,1
+77,417.39,2083.23,Home,Medium Risk,0
+68.3,3114.19,2246.23,Home,Medium Risk,0
+69.7,16195.47,2144.58,Auto,High Risk,0
+71.5,6350.86,3227.65,Home,High Risk,0
+47.3,12649.53,1681.13,Home,Very Low Risk,1
+61,3925.38,1734.5,Auto,Medium Risk,1
+77.6,8990.36,1688.43,Business,Very Low Risk,0
+55.8,6722.31,1722.26,Auto,Very Low Risk,1
+43.8,32903.64,1681.31,Home,Very Low Risk,1
+54.7,10996.2,2594.51,Home,Low Risk,0
+80.2,12150.47,2710.25,Auto,Very Low Risk,0
+69.8,4943.1,1714.63,Home,Low Risk,0
+52.3,4513.7,1583.82,Education,Medium Risk,1
+72.1,4821.93,2235.71,Personal,Very Low Risk,0
+60.6,13008.3,1723.89,Education,Medium Risk,1
+57.3,4889.37,2316.47,Business,Low Risk,0
+74.3,11472.75,2101.46,Business,Low Risk,0
+65.6,97780.55,1242.13,Home,High Risk,1
+72.6,23048.35,2773.75,Home,High Risk,0
+75.2,5479.51,2897.94,Auto,Medium Risk,0
+67.5,34250.51,1693.61,Business,Medium Risk,1
+77.5,4965.7,1806.15,Business,Low Risk,0
+48.7,702.22,2142.93,Personal,Very Low Risk,1
+79.3,2417.03,2167.23,Business,Medium Risk,0
+69.4,858.38,2329.27,Education,Low Risk,0
+63.7,5314.44,3005.1,Education,Medium Risk,0
+50.6,8284.17,1911.53,Home,High Risk,1
+79.4,60580.28,1600.85,Home,Very Low Risk,1
+53.4,11995.81,1310.34,Education,Medium Risk,1
+64.9,6229.67,1634.53,Education,Medium Risk,1
+74.8,21922.89,1983.44,Auto,Medium Risk,1
+60.4,570.57,2897.28,Business,Low Risk,0
+63,10750.82,1741.19,Business,Low Risk,1
+71,20435.69,2111.89,Education,Very Low Risk,1
+64.3,1374.3,1991.79,Home,High Risk,0
+68.9,31968.45,2594.2,Personal,Very Low Risk,1
+63.9,12163.51,3263.47,Personal,Very Low Risk,0
+58.4,4922.91,1734.57,Business,Medium Risk,1
+49.1,17315.17,1755.28,Business,Medium Risk,1
+77.4,123603.16,2522.08,Business,Very Low Risk,1
+43.7,10079.3,2340.95,Personal,Very Low Risk,1
+84.5,10914.69,2923.35,Auto,Medium Risk,0
+66.5,4669.31,2291.96,Personal,Very Low Risk,0
+59.1,2922.48,1820.35,Auto,High Risk,1
+62.2,21947.38,2295.33,Home,Low Risk,1
+71.2,2900.68,2554.35,Home,Very Low Risk,0
+67.1,8829.73,2410.24,Business,High Risk,0
+69.9,4567.91,2253.64,Business,Very Low Risk,0
+70.9,14397.01,2533.34,Business,Medium Risk,0
+56.5,12093.15,2584.65,Business,Medium Risk,0
+61.4,28142.83,2691.08,Business,High Risk,1
+71.9,4393.93,2324.35,Business,High Risk,0
+56,5861.44,1916.44,Personal,Low Risk,1
+61.9,2503.6,2073.36,Business,Very Low Risk,0
+56.9,4754.51,2603.25,Business,High Risk,0
+58.7,12743.3,1591.53,Personal,Low Risk,1
